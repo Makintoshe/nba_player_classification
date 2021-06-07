@@ -1,4 +1,4 @@
-# Classification des joueurs pour le recrutement à la NBA
+# Classification des joueurs de la NBA pour le recrutement en terme de performance 
 
 
 Dans ce projet, je mets en place une page web et une API Rest qui permet de prédire si un joueur peut ou ne pas être recruté par une équipe de la NBA.
