@@ -59,6 +59,7 @@ requête sur un seul joueur au modèle que vous aurez entraîné.
 
 ## CCM
 
+0) Télécharger (ou cloner) le repo et dézippez les 2 fichiers .zip
 1) Installer pycharm
 2) Ouvrir le projet (nba_classification) avec pycharm
 * accéder au fichier "requirements.txt"
